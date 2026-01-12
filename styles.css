@@ -203,8 +203,8 @@ p {
 
 .hero-image-container {
     flex-shrink: 0;
-    width: 180px;
-    height: 180px;
+    width: 220px;
+    height: 220px;
 }
 
 .hero-image-placeholder {
